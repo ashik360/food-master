@@ -2,15 +2,6 @@
 
 
 /*
-#fb994c;  yelllow
-#5b5b5b; Dark ha
-#0b0d17;
-#828282;
-#575757;
-#828282;
-#fb934a;
-#575757;
-
 font-family: 'Poppins', sans-serif;
 */
 
@@ -180,6 +171,7 @@ a{
 	margin-left: 40px;
 	margin-right: ;
 	display: inline-block;
+	box-shadow: 8px 8px 20px gray;
 }
 
 .omni-1 img{
